@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1695653849 source:c:\users\murad\desktop\projects\hangman v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+
+1695653849 source:c:\users\murad\desktop\bme-cse\5th semaster\projects\hangman v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+
